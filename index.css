@@ -1,0 +1,58 @@
+body
+{
+	background-color: green;
+	overflow-x: hidden;
+}
+
+
+
+#neavy
+{
+	padding-top:100px;
+	text-align: justify;
+}
+#army
+{
+	text-align: justify;
+}
+#air
+{
+	text-align: justify;
+}
+.card
+{
+	align-content: center;
+	padding: 30px;
+	margin-top:20px;
+margin-bottom: 10px;  
+}
+#motto
+{
+	padding: 50px;
+}
+#quote
+{
+	padding: 30px;
+	margin: 30px;
+	color: yellow;
+}
+.iman
+{
+	padding: 10px;
+
+
+}
+.taqwa
+{
+	padding: 10px;
+}
+.fi
+{
+	padding: 10px;
+
+
+}
+.card
+{
+	margin: 10px;
+}
